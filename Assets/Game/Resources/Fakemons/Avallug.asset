@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Avallug
+  m_EditorClassIdentifier: 
+  name: Avallug
+  description: Its ice-covered body is as hard as steel. Its cumbersome frame crushes
+    anything that stands in its way.
+  frontSprite: {fileID: 21300000, guid: d4d3ceb65356b6e4795c18baec59ac78, type: 3}
+  backSprite: {fileID: 21300000, guid: 27b5639bcccddf24093638f53644cc37, type: 3}
+  type1: 6
+  type2: 0
+  growthRate: 0
+  maxHp: 95
+  attack: 117
+  defense: 184
+  spAttack: 44
+  spDefense: 46
+  speed: 28
+  expYield: 180
+  catchRate: 55
+  learnableMoves: []
+  learnableByItems: []
+  evolutions: []

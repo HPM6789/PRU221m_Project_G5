@@ -1,0 +1,2844 @@
+fileFormatVersion: 2
+guid: 17b11c0027ef789478b6a2be0ca9d36b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7359022318887918648
+    second: trainer-transperant_0
+  - first:
+      213: 8885518751423651262
+    second: trainer-transperant_1
+  - first:
+      213: 8762059532551558521
+    second: trainer-transperant_2
+  - first:
+      213: -7234120592783776847
+    second: trainer-transperant_3
+  - first:
+      213: -2585536355633555359
+    second: trainer-transperant_4
+  - first:
+      213: 6258959723432776889
+    second: trainer-transperant_5
+  - first:
+      213: -2425158586256163898
+    second: trainer-transperant_6
+  - first:
+      213: 5728851442711387663
+    second: trainer-transperant_7
+  - first:
+      213: -7185467179533498045
+    second: trainer-transperant_8
+  - first:
+      213: 8220145752245110465
+    second: trainer-transperant_9
+  - first:
+      213: -3190621384278063664
+    second: trainer-transperant_10
+  - first:
+      213: -8919275427233537675
+    second: trainer-transperant_11
+  - first:
+      213: 1778907815694011342
+    second: trainer-transperant_12
+  - first:
+      213: -3629307845665384547
+    second: trainer-transperant_13
+  - first:
+      213: 1038966607412516119
+    second: trainer-transperant_14
+  - first:
+      213: -1228532403999534656
+    second: trainer-transperant_15
+  - first:
+      213: 5722715162384476184
+    second: trainer-transperant_16
+  - first:
+      213: 7971486324086904660
+    second: trainer-transperant_17
+  - first:
+      213: -4329067500821301492
+    second: trainer-transperant_18
+  - first:
+      213: 6339084530306542264
+    second: trainer-transperant_19
+  - first:
+      213: 4176356654610863452
+    second: trainer-transperant_20
+  - first:
+      213: -1888588314436399494
+    second: trainer-transperant_21
+  - first:
+      213: 8289561031319855209
+    second: trainer-transperant_22
+  - first:
+      213: 1363401587027052207
+    second: trainer-transperant_23
+  - first:
+      213: 15781557000912543
+    second: trainer-transperant_24
+  - first:
+      213: 6928255122958628428
+    second: trainer-transperant_25
+  - first:
+      213: -3051835898467565473
+    second: trainer-transperant_26
+  - first:
+      213: -5287616010723514947
+    second: trainer-transperant_27
+  - first:
+      213: 8871029623043301994
+    second: trainer-transperant_28
+  - first:
+      213: -4174862444086540370
+    second: trainer-transperant_29
+  - first:
+      213: 7296178347172662425
+    second: trainer-transperant_30
+  - first:
+      213: -5092910113156576191
+    second: trainer-transperant_31
+  - first:
+      213: -9059369998595868225
+    second: trainer-transperant_32
+  - first:
+      213: -1924707714428238674
+    second: trainer-transperant_33
+  - first:
+      213: 5360078830112581199
+    second: trainer-transperant_34
+  - first:
+      213: 2392670088765857085
+    second: trainer-transperant_35
+  - first:
+      213: -7280228660118040311
+    second: trainer-transperant_36
+  - first:
+      213: 5110405071674557755
+    second: trainer-transperant_37
+  - first:
+      213: 5178112151676774451
+    second: trainer-transperant_38
+  - first:
+      213: 8106050649304447845
+    second: trainer-transperant_39
+  - first:
+      213: -2046819886590009600
+    second: trainer-transperant_40
+  - first:
+      213: -5066736749484881547
+    second: trainer-transperant_41
+  - first:
+      213: 4830714505912429397
+    second: trainer-transperant_42
+  - first:
+      213: 3194223084535043065
+    second: trainer-transperant_43
+  - first:
+      213: -4358177131060870590
+    second: trainer-transperant_44
+  - first:
+      213: -1990678078903383471
+    second: trainer-transperant_45
+  - first:
+      213: -7042316021074461722
+    second: trainer-transperant_46
+  - first:
+      213: -7284048939180166985
+    second: trainer-transperant_47
+  - first:
+      213: -2986800472275344266
+    second: trainer-transperant_48
+  - first:
+      213: -796473271975378555
+    second: trainer-transperant_49
+  - first:
+      213: -3521466004097692480
+    second: trainer-transperant_50
+  - first:
+      213: -5499473904234351955
+    second: trainer-transperant_51
+  - first:
+      213: -6138563864095467948
+    second: trainer-transperant_52
+  - first:
+      213: 2977687664091716506
+    second: trainer-transperant_53
+  - first:
+      213: -2540309555182800332
+    second: trainer-transperant_54
+  - first:
+      213: -3982709079827513357
+    second: trainer-transperant_55
+  - first:
+      213: -8901788367595931907
+    second: trainer-transperant_56
+  - first:
+      213: -3455078620313736316
+    second: trainer-transperant_57
+  - first:
+      213: 707341903983640206
+    second: trainer-transperant_58
+  - first:
+      213: -1192233050688927305
+    second: trainer-transperant_59
+  - first:
+      213: -6678662237097810013
+    second: trainer-transperant_60
+  - first:
+      213: -8914082000311612744
+    second: trainer-transperant_61
+  - first:
+      213: -8765410678758944880
+    second: trainer-transperant_62
+  - first:
+      213: 6037464662548280031
+    second: trainer-transperant_63
+  - first:
+      213: 8226174856028084510
+    second: trainer-transperant_64
+  - first:
+      213: -784710287616282397
+    second: trainer-transperant_65
+  - first:
+      213: 3826202881061307187
+    second: trainer-transperant_66
+  - first:
+      213: 3165896606333893762
+    second: trainer-transperant_67
+  - first:
+      213: 860318621504816643
+    second: trainer-transperant_68
+  - first:
+      213: -6882510138707135279
+    second: trainer-transperant_69
+  - first:
+      213: -8476800221534420615
+    second: trainer-transperant_70
+  - first:
+      213: 8310288129250308833
+    second: trainer-transperant_71
+  - first:
+      213: 123363848578533803
+    second: trainer-transperant_72
+  - first:
+      213: -2895221796442867876
+    second: trainer-transperant_73
+  - first:
+      213: -6951484036489789247
+    second: trainer-transperant_74
+  - first:
+      213: -4280719446423623158
+    second: trainer-transperant_75
+  - first:
+      213: 4485817246473733127
+    second: trainer-transperant_76
+  - first:
+      213: -4515858406227749819
+    second: trainer-transperant_77
+  - first:
+      213: -1638340566040650166
+    second: trainer-transperant_78
+  - first:
+      213: 1820524825860632785
+    second: trainer-transperant_79
+  - first:
+      213: 2578630432817496805
+    second: trainer-transperant_80
+  - first:
+      213: -3736916835434842958
+    second: trainer-transperant_81
+  - first:
+      213: 7266883640296574013
+    second: trainer-transperant_82
+  - first:
+      213: -6231702797131745132
+    second: trainer-transperant_83
+  - first:
+      213: 9155508509697113742
+    second: trainer-transperant_84
+  - first:
+      213: -8027520452156294475
+    second: trainer-transperant_85
+  - first:
+      213: -3979468952656346953
+    second: trainer-transperant_86
+  - first:
+      213: 6915346354005184942
+    second: trainer-transperant_87
+  - first:
+      213: -3157190255032685438
+    second: trainer-transperant_88
+  - first:
+      213: -3134662125622173304
+    second: trainer-transperant_89
+  - first:
+      213: 1167456492373632285
+    second: trainer-transperant_90
+  - first:
+      213: -3535798841675344882
+    second: trainer-transperant_91
+  - first:
+      213: 6506236214271288863
+    second: trainer-transperant_92
+  - first:
+      213: -7660960488116922955
+    second: trainer-transperant_93
+  - first:
+      213: -8068545884890522083
+    second: trainer-transperant_94
+  - first:
+      213: 3942435899189095639
+    second: trainer-transperant_95
+  - first:
+      213: -4834134207671715481
+    second: trainer-transperant_96
+  - first:
+      213: 7194454143478036079
+    second: trainer-transperant_97
+  - first:
+      213: -1225305475077496664
+    second: trainer-transperant_98
+  - first:
+      213: -293370824967413594
+    second: trainer-transperant_99
+  - first:
+      213: 4176007968856768479
+    second: trainer-transperant_100
+  - first:
+      213: -3710155976508210775
+    second: trainer-transperant_101
+  - first:
+      213: 4386896111291932065
+    second: trainer-transperant_102
+  - first:
+      213: 6950447889604318704
+    second: trainer-transperant_103
+  - first:
+      213: 8965267123013416013
+    second: trainer-transperant_104
+  - first:
+      213: -6705491877587180652
+    second: trainer-transperant_105
+  - first:
+      213: -4580240638149555777
+    second: trainer-transperant_106
+  - first:
+      213: -6230853658117749507
+    second: trainer-transperant_107
+  - first:
+      213: -7464318389536718975
+    second: trainer-transperant_108
+  - first:
+      213: 6635653444351655316
+    second: trainer-transperant_109
+  - first:
+      213: -7883883561295359064
+    second: trainer-transperant_110
+  - first:
+      213: -3299971187795936002
+    second: trainer-transperant_111
+  - first:
+      213: 4049192233199551538
+    second: trainer-transperant_112
+  - first:
+      213: 1490715968833675128
+    second: trainer-transperant_113
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trainer-transperant_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 662
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c5c7b2fcf702660800000000000000
+      internalID: 7359022318887918648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 662
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebddda71a34bf4b70800000000000000
+      internalID: 8885518751423651262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 662
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9759f82b8b6199970800000000000000
+      internalID: 8762059532551558521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 662
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3e8cc16ad3b9b90800000000000000
+      internalID: -7234120592783776847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 661
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1689a9022645e1cd0800000000000000
+      internalID: -2585536355633555359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 703
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b410b205ba4cd650800000000000000
+      internalID: 6258959723432776889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 662
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb76366d1b185ed0800000000000000
+      internalID: -2425158586256163898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_7
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 662
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0edbcdc808f08f40800000000000000
+      internalID: 5728851442711387663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 661
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3498da2aba7184c90800000000000000
+      internalID: -7185467179533498045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_9
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 661
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6818c6203d31270800000000000000
+      internalID: 8220145752245110465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_10
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 662
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5475171c2a8b3d0800000000000000
+      internalID: -3190621384278063664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 597
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571efd9514e583480800000000000000
+      internalID: -8919275427233537675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 597
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb8b9abb33ffa810800000000000000
+      internalID: 1778907815694011342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 598
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9793964ebb12adc0800000000000000
+      internalID: -3629307845665384547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 597
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715d050ff962b6e00800000000000000
+      internalID: 1038966607412516119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_15
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 597
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c11d80a94063fee0800000000000000
+      internalID: -1228532403999534656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_16
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 597
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8182ba4be1b2b6f40800000000000000
+      internalID: 5722715162384476184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_17
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 597
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4579517b39860ae60800000000000000
+      internalID: 7971486324086904660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_18
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 596
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07bbdc5b001ce3c0800000000000000
+      internalID: -4329067500821301492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_19
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 596
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba681e5bc3f8f750800000000000000
+      internalID: 6339084530306542264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_20
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 597
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c555b65004665f930800000000000000
+      internalID: 4176356654610863452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_21
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 596
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e80172fe26ac5e0800000000000000
+      internalID: -1888588314436399494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 532
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960adb786df6a0370800000000000000
+      internalID: 8289561031319855209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 532
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa683f01586cbe210800000000000000
+      internalID: 1363401587027052207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 532
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eba031e31183000800000000000000
+      internalID: 15781557000912543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 531
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46ba3da35b162060800000000000000
+      internalID: 6928255122958628428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 532
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f504e0f6b63b5a5d0800000000000000
+      internalID: -3051835898467565473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_27
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 533
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db52824d04d9e96b0800000000000000
+      internalID: -5287616010723514947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_28
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 532
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62a671017a3c1b70800000000000000
+      internalID: 8871029623043301994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_29
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 532
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea74a1af9b8ef06c0800000000000000
+      internalID: -4174862444086540370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_30
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 532
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c8f19cc8b314560800000000000000
+      internalID: 7296178347172662425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_31
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 532
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cce484c395259b0800000000000000
+      internalID: -5092910113156576191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_32
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 531
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9bcd02cf6a64280800000000000000
+      internalID: -9059369998595868225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 466
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea40d0108801a45e0800000000000000
+      internalID: -1924707714428238674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_34
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 467
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46a3fc0c43d26a40800000000000000
+      internalID: 5360078830112581199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 467
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d5791d4c8743120800000000000000
+      internalID: 2392670088765857085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_36
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 482
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901db0e1b9e67fa90800000000000000
+      internalID: -7280228660118040311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_37
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 466
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35448b265ecbe640800000000000000
+      internalID: 5110405071674557755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 467
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338e3df21995cd740800000000000000
+      internalID: 5178112151676774451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_39
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 467
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bbd1b2e1a7e7070800000000000000
+      internalID: 8106050649304447845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_40
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 467
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fd89c582c3893e0800000000000000
+      internalID: -2046819886590009600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_41
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 468
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579498465c55fa9b0800000000000000
+      internalID: -5066736749484881547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_42
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 467
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bac38bf352a0340800000000000000
+      internalID: 4830714505912429397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_43
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 466
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3501fb8f8245c20800000000000000
+      internalID: 3194223084535043065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_44
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 468
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242c2ea6df4a483c0800000000000000
+      internalID: -4358177131060870590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 402
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a8ec495d0bf54e0800000000000000
+      internalID: -1990678078903383471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 402
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb70dff3eaa44e90800000000000000
+      internalID: -7042316021074461722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_47
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 406
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0fa95151cd9ea90800000000000000
+      internalID: -7284048939180166985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_48
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 402
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6742f039bc0cc86d0800000000000000
+      internalID: -2986800472275344266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_49
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 401
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58180de67cb52f4f0800000000000000
+      internalID: -796473271975378555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 402
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc8429a35d312fc0800000000000000
+      internalID: -3521466004097692480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_51
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 403
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2b49e1f91fda3b0800000000000000
+      internalID: -5499473904234351955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_52
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 402
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4565a8960b07fcaa0800000000000000
+      internalID: -6138563864095467948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_53
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 402
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bdf3e672fd25920800000000000000
+      internalID: 2977687664091716506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_54
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 401
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4327ccf2be10fbcd0800000000000000
+      internalID: -2540309555182800332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_55
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 402
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff782571339ab8c0800000000000000
+      internalID: -3982709079827513357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 337
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df67db3b4ae767480800000000000000
+      internalID: -8901788367595931907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_57
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 336
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b2725fc481d00d0800000000000000
+      internalID: -3455078620313736316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_58
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 336
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e71b9c6bbf0d900800000000000000
+      internalID: 707341903983640206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_59
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 337
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9c43c6b56547fe0800000000000000
+      internalID: -1192233050688927305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_60
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 338
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a728f69410a053a0800000000000000
+      internalID: -6678662237097810013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_61
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 337
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba09b846a1da4480800000000000000
+      internalID: -8914082000311612744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_62
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 337
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f4826cd610b5680800000000000000
+      internalID: -8765410678758944880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_63
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 337
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2f92b6f1269c350800000000000000
+      internalID: 6037464662548280031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_64
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 337
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19ddc9827e392270800000000000000
+      internalID: 8226174856028084510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_65
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 337
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e07907a6262c15f0800000000000000
+      internalID: -784710287616282397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_66
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 272
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3334c3c8f37691530800000000000000
+      internalID: 3826202881061307187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_67
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 283
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c752890368feb20800000000000000
+      internalID: 3165896606333893762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_68
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 272
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306c2746a3770fb00800000000000000
+      internalID: 860318621504816643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_69
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 272
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d436537e796c70a0800000000000000
+      internalID: -6882510138707135279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_70
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 271
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9710d7b4c1b5c5a80800000000000000
+      internalID: -8476800221534420615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_71
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 277
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e23c151603145370800000000000000
+      internalID: 8310288129250308833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_72
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 271
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba906a444c646b100800000000000000
+      internalID: 123363848578533803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_73
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 276
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57fd0d9d1b12d7d0800000000000000
+      internalID: -2895221796442867876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_74
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 271
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c04a3f691e578f90800000000000000
+      internalID: -6951484036489789247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_75
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 272
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a20dcf754d794c0800000000000000
+      internalID: -4280719446423623158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_76
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 272
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704436fc403d04e30800000000000000
+      internalID: 4485817246473733127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_77
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 271
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54455d0a4b27451c0800000000000000
+      internalID: -4515858406227749819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_78
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 271
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ed80c7fe17349e0800000000000000
+      internalID: -1638340566040650166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_79
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 274
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0f33efeadc34910800000000000000
+      internalID: 1820524825860632785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_80
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 207
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2491b67b229c320800000000000000
+      internalID: 2578630432817496805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_81
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 206
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4babcefedc32cc0800000000000000
+      internalID: -3736916835434842958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_82
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 206
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c89f35b2829d460800000000000000
+      internalID: 7266883640296574013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_83
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 207
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498772fa25b8489a0800000000000000
+      internalID: -6231702797131745132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_84
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 206
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eff8a4b76ee0f70800000000000000
+      internalID: 9155508509697113742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_85
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 207
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba7a0e2ea4889090800000000000000
+      internalID: -8027520452156294475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_86
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0093a521616c8c0800000000000000
+      internalID: -3979468952656346953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_87
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 207
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea19541bede38ff50800000000000000
+      internalID: 6915346354005184942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_88
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 239
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ca378c0386f24d0800000000000000
+      internalID: -3157190255032685438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_89
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 207
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8816b67a7617f74d0800000000000000
+      internalID: -3134662125622173304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_90
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 207
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1567ae8e73a33010800000000000000
+      internalID: 1167456492373632285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_91
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 142
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0414bcdfa15eeec0800000000000000
+      internalID: -3535798841675344882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_92
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 141
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f162c688d5bca4a50800000000000000
+      internalID: 6506236214271288863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_93
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 141
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5dc7b860dcea590800000000000000
+      internalID: -7660960488116922955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_94
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 142
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e19254444c60090800000000000000
+      internalID: -8068545884890522083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_95
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 142
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dce9e8ff8856b630800000000000000
+      internalID: 3942435899189095639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_96
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 142
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769b92bec84b9ecb0800000000000000
+      internalID: -4834134207671715481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_97
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 142
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6678d6fce5d7d360800000000000000
+      internalID: 7194454143478036079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_98
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 142
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a02aa09927defee0800000000000000
+      internalID: -1225305475077496664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_99
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0aa5ef9ccbdebf0800000000000000
+      internalID: -293370824967413594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_100
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 77
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf78ea4f1924f930800000000000000
+      internalID: 4176007968856768479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_101
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 77
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a18feeebc0e28cc0800000000000000
+      internalID: -3710155976508210775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_102
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 77
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad191c35c261ec30800000000000000
+      internalID: 4386896111291932065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_103
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 77
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f59ab1d783f47060800000000000000
+      internalID: 6950447889604318704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_104
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 77
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44f3b7c2f60b6c70800000000000000
+      internalID: 8965267123013416013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_105
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 77
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49326202aae41f2a0800000000000000
+      internalID: -6705491877587180652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_106
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 77
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb989412867bf60c0800000000000000
+      internalID: -4580240638149555777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_107
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 76
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4c2744c9f8789a0800000000000000
+      internalID: -6230853658117749507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_108
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 77
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f7f3de8f9696890800000000000000
+      internalID: -7464318389536718975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_109
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d7d2386a3961c50800000000000000
+      internalID: 6635653444351655316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_110
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 12
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3d27eeba1d69290800000000000000
+      internalID: -7883883561295359064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_111
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 12
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc366e40b52432d0800000000000000
+      internalID: -3299971187795936002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_112
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 11
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234412fe1ee913830800000000000000
+      internalID: 4049192233199551538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer-transperant_113
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 249
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f5557864610b410800000000000000
+      internalID: 1490715968833675128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

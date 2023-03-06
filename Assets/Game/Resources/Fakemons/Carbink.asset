@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Carbink
+  m_EditorClassIdentifier: 
+  name: Carbink
+  description: Born from the temperatures and pressures deep underground, it fires
+    beams from the stone in its head.
+  frontSprite: {fileID: 21300000, guid: 3219d3b5fb12058498efb641eacb33c4, type: 3}
+  backSprite: {fileID: 21300000, guid: 82614d480542a564abcdaea1bcdabb5c, type: 3}
+  type1: 13
+  type2: 18
+  growthRate: 0
+  maxHp: 50
+  attack: 50
+  defense: 150
+  spAttack: 50
+  spDefense: 150
+  speed: 50
+  expYield: 100
+  catchRate: 60
+  learnableMoves: []
+  learnableByItems: []
+  evolutions: []

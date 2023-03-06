@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Scatterbug
+  m_EditorClassIdentifier: 
+  name: ScatterBug
+  description: "When under attack from bird Pok\xE9mon, it spews a poisonous black
+    powder that causes paralysis on contact."
+  frontSprite: {fileID: 21300000, guid: 9dd7fea223bf2a646a25eebc3f8a7bb7, type: 3}
+  backSprite: {fileID: 21300000, guid: dad39f092ea2d2843a171318176e4b62, type: 3}
+  type1: 12
+  type2: 0
+  growthRate: 1
+  maxHp: 38
+  attack: 35
+  defense: 40
+  spAttack: 27
+  spDefense: 25
+  speed: 35
+  expYield: 40
+  catchRate: 225
+  learnableMoves: []
+  learnableByItems: []
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: 2adb7ea1f1c3ff1479095e1f54b47701, type: 2}
+    requiredLevel: 9
+    requireItem: {fileID: 0}

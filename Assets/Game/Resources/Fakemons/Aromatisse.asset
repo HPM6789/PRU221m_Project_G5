@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Aromatisse
+  m_EditorClassIdentifier: 
+  name: Aromatisse
+  description: "\tIt devises various scents, pleasant and unpleasant, and emits scents
+    that its enemies dislike in order to gain an edge in battle."
+  frontSprite: {fileID: 21300000, guid: 579f86ea6019db04791a59769aa1e662, type: 3}
+  backSprite: {fileID: 21300000, guid: 4eb8668515c3b45499c83cbe0021debd, type: 3}
+  type1: 18
+  type2: 0
+  growthRate: 0
+  maxHp: 101
+  attack: 72
+  defense: 72
+  spAttack: 99
+  spDefense: 89
+  speed: 29
+  expYield: 162
+  catchRate: 140
+  learnableMoves: []
+  learnableByItems: []
+  evolutions: []

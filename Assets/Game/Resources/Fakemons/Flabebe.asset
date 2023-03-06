@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Flabebe
+  m_EditorClassIdentifier: 
+  name: Flabebe
+  description: "When it finds a flower it likes, it dwells on that flower its whole
+    life long. It floats in the wind\u2019s embrace with an untroubled heart."
+  frontSprite: {fileID: 21300000, guid: 4bd5cf46fd3718a4a9ed90c5b5780239, type: 3}
+  backSprite: {fileID: 21300000, guid: c2608b7b71a1fa846bca225aee38d7ec, type: 3}
+  type1: 18
+  type2: 0
+  growthRate: 0
+  maxHp: 44
+  attack: 38
+  defense: 39
+  spAttack: 61
+  spDefense: 79
+  speed: 42
+  expYield: 61
+  catchRate: 225
+  learnableMoves: []
+  learnableByItems: []
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: 4986a06eff42a85458b415208df0db68, type: 2}
+    requiredLevel: 19
+    requireItem: {fileID: 0}

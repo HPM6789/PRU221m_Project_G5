@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Heliolisk
+  m_EditorClassIdentifier: 
+  name: Heliolisk
+  description: They flare their frills and generate energy. A single Heliolisk can
+    generate sufficient electricity to power a skyscraper.
+  frontSprite: {fileID: 21300000, guid: 178e7b17afc35834798bdbe16f26dfbe, type: 3}
+  backSprite: {fileID: 21300000, guid: c7656a7ff5cc63b438525974e2d3e5a7, type: 3}
+  type1: 4
+  type2: 1
+  growthRate: 1
+  maxHp: 62
+  attack: 55
+  defense: 52
+  spAttack: 109
+  spDefense: 94
+  speed: 109
+  expYield: 168
+  catchRate: 75
+  learnableMoves: []
+  learnableByItems: []
+  evolutions: []

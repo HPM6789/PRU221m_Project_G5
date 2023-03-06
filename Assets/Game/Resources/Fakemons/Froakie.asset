@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Froakie
+  m_EditorClassIdentifier: 
+  name: Froakie
+  description: Froakie is both light and strong, making it capable of jumping incredibly
+    high. The bubbles on its chest and back protect it from attacks. Froakie may
+    appear absentminded, but in truth it pays close attention to its surroundings
+    at all times.
+  frontSprite: {fileID: 1874948266695889521, guid: 197470c25123b474ebb46a0919cd736c, type: 3}
+  backSprite: {fileID: 4863792404700853373, guid: 197470c25123b474ebb46a0919cd736c, type: 3}
+  type1: 3
+  type2: 0
+  growthRate: 1
+  maxHp: 41
+  attack: 56
+  defense: 40
+  spAttack: 62
+  spDefense: 44
+  speed: 71
+  expYield: 400
+  catchRate: 225
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: b86e63d48c1c0af4c87f25b909a87d30, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: d693df9f9a8153749a9a31cd2c985e0a, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: 92f9f876c4739b64faa08c60916fa507, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: 6fc20684690bfd34cb118a535a4b81d5, type: 2}
+    level: 3
+  learnableByItems: []
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: 9c370c5296e45d64b8b578dab4344e1a, type: 2}
+    requiredLevel: 16
+    requireItem: {fileID: 0}

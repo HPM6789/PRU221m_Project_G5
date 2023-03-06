@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Quilladin
+  m_EditorClassIdentifier: 
+  name: Quilladin
+  description: "Upon evolution, the hard spikes on Quilladin's body grow even sturdier.
+    Despite its prickly appearance, Quilladin is considered a gentle Pok\xE9mon that
+    avoids battle."
+  frontSprite: {fileID: 21300000, guid: 2b455e2c41ea5f64d946d704ee14f756, type: 3}
+  backSprite: {fileID: 21300000, guid: 89891a7d6439d3d49b02c9bd3a3df390, type: 3}
+  type1: 5
+  type2: 0
+  growthRate: 1
+  maxHp: 31
+  attack: 78
+  defense: 95
+  spAttack: 56
+  spDefense: 58
+  speed: 57
+  expYield: 142
+  catchRate: 45
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 737b12704999ae947b313e3db8f2d274, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: bff0dde0d8d3da343b8ca7623eb0dff3, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: af0847b6fc7d4954bb09bcf60e0c2f7e, type: 2}
+    level: 7
+  - moveBase: {fileID: 11400000, guid: fa6a4f48b8ac60f4894ba9ce0f62f40f, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: c610130434514774a8cadbf791ec24cb, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: 7244ea3b0ab7907428ee4b3d3d7a8596, type: 2}
+    level: 14
+  - moveBase: {fileID: 11400000, guid: 32501af2fd0bedf4b9ff2010f1a4f39d, type: 2}
+    level: 15
+  - moveBase: {fileID: 11400000, guid: f9f815d339c032d41bce4a41dd85616a, type: 2}
+    level: 10
+  learnableByItems:
+  - {fileID: 11400000, guid: 5c877db46648bc843a3b6a59cda96e8f, type: 2}
+  - {fileID: 11400000, guid: 92f9f876c4739b64faa08c60916fa507, type: 2}
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: cb88e3c6c4b2c3940bff94dc5a0b6a40, type: 2}
+    requiredLevel: 36
+    requireItem: {fileID: 0}

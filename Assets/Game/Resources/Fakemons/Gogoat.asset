@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Gogoat
+  m_EditorClassIdentifier: 
+  name: Gogoat
+  description: It can tell how its Trainer is feeling by subtle shifts in the grip
+    on its horns. This empathic sense lets them run as if one being.
+  frontSprite: {fileID: 21300000, guid: bd091c0c69c6fd34fb2053269493922c, type: 3}
+  backSprite: {fileID: 21300000, guid: 0c6ccb0ce83eff34fbb88190fc4cd660, type: 3}
+  type1: 5
+  type2: 0
+  growthRate: 0
+  maxHp: 123
+  attack: 100
+  defense: 62
+  spAttack: 97
+  spDefense: 81
+  speed: 68
+  expYield: 186
+  catchRate: 45
+  learnableMoves: []
+  learnableByItems: []
+  evolutions: []

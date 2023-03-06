@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Dragalge
+  m_EditorClassIdentifier: 
+  name: Dragalge
+  description: Their poison is strong enough to eat through the hull of a tanker,
+    and they spit it indiscriminately at anything that enters their territory.
+  frontSprite: {fileID: 21300000, guid: 81f986cc7bbdfed4eb33139f38f1ce7d, type: 3}
+  backSprite: {fileID: 21300000, guid: da4bfe1b90f2e9349ac775610dff8c9e, type: 3}
+  type1: 8
+  type2: 15
+  growthRate: 1
+  maxHp: 65
+  attack: 75
+  defense: 90
+  spAttack: 97
+  spDefense: 123
+  speed: 44
+  expYield: 173
+  catchRate: 55
+  learnableMoves: []
+  learnableByItems: []
+  evolutions: []

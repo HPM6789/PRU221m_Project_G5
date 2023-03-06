@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Clawitzer
+  m_EditorClassIdentifier: 
+  name: Clawitzer
+  description: Their enormous claws launch cannonballs of water powerful enough to
+    pierce tanker hulls.
+  frontSprite: {fileID: 21300000, guid: 13eb3b4f186354f4f9bbf8f21133e881, type: 3}
+  backSprite: {fileID: 21300000, guid: a36cca6a5ddb9f24ab481e79654ea843, type: 3}
+  type1: 3
+  type2: 0
+  growthRate: 0
+  maxHp: 71
+  attack: 73
+  defense: 88
+  spAttack: 120
+  spDefense: 89
+  speed: 59
+  expYield: 100
+  catchRate: 55
+  learnableMoves: []
+  learnableByItems: []
+  evolutions: []

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Slurpuff
+  m_EditorClassIdentifier: 
+  name: Slurpuff
+  description: It can distinguish the faintest of scents. It puts its sensitive sense
+    of smell to use by helping pastry chefs in their work.
+  frontSprite: {fileID: 21300000, guid: dcdbb55698b6c9f40a75c10e42f98fe4, type: 3}
+  backSprite: {fileID: 21300000, guid: 4106fc42decfd7f4ea087d090421ab0c, type: 3}
+  type1: 18
+  type2: 0
+  growthRate: 1
+  maxHp: 82
+  attack: 80
+  defense: 86
+  spAttack: 85
+  spDefense: 75
+  speed: 72
+  expYield: 168
+  catchRate: 140
+  learnableMoves: []
+  learnableByItems: []
+  evolutions: []

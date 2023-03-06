@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b08da177bc03134439c12da83d860946, type: 3}
+  m_Name: HM03
+  m_EditorClassIdentifier: 
+  name: HM03
+  description: Creates a huge wave, then crashes it down on the foe.
+  icon: {fileID: 21300000, guid: 8e6b8ee3f8071bb43a3cbb8e6e3b746a, type: 3}
+  move: {fileID: 11400000, guid: 6fc20684690bfd34cb118a535a4b81d5, type: 2}
+  isHM: 1

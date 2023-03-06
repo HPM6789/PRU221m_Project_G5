@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Pyroar
+  m_EditorClassIdentifier: 
+  name: Pyroar
+  description: "With fiery breath of more than 10,000 degrees Fahrenheit, they viciously
+    threaten any challenger. The females protect the pride\u2019s cubs"
+  frontSprite: {fileID: 21300000, guid: 23e6410a1ae17d4459dbd5d0502dce48, type: 3}
+  backSprite: {fileID: 21300000, guid: 77a6ab66093ec1244a0a7b72565674ca, type: 3}
+  type1: 2
+  type2: 1
+  growthRate: 1
+  maxHp: 86
+  attack: 68
+  defense: 72
+  spAttack: 109
+  spDefense: 66
+  speed: 106
+  expYield: 117
+  catchRate: 65
+  learnableMoves: []
+  learnableByItems: []
+  evolutions: []

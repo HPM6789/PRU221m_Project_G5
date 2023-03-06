@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Malamar
+  m_EditorClassIdentifier: 
+  name: Malamar
+  description: "It wields the most compelling hypnotic powers of any Pok\xE9mon,
+    and it forces others to do whatever it wants"
+  frontSprite: {fileID: 21300000, guid: bcad781020aafde4c8df88d61b0a55fc, type: 3}
+  backSprite: {fileID: 21300000, guid: da6307dad4ecdc748a0aef343a5e47f0, type: 3}
+  type1: 16
+  type2: 11
+  growthRate: 1
+  maxHp: 86
+  attack: 92
+  defense: 88
+  spAttack: 68
+  spDefense: 75
+  speed: 73
+  expYield: 169
+  catchRate: 80
+  learnableMoves: []
+  learnableByItems: []
+  evolutions: []

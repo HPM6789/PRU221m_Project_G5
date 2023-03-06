@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Helioptile
+  m_EditorClassIdentifier: 
+  name: Helioptile
+  description: They make their home in deserts. They can generate their energy from
+    basking in the sun, so eating food is not a requirement.
+  frontSprite: {fileID: 21300000, guid: d24c90ea6fc4b2747b09c3df3b2c703e, type: 3}
+  backSprite: {fileID: 21300000, guid: 81ebe72195aa14d44bf42e4fecaf802f, type: 3}
+  type1: 4
+  type2: 1
+  growthRate: 1
+  maxHp: 44
+  attack: 38
+  defense: 33
+  spAttack: 61
+  spDefense: 43
+  speed: 70
+  expYield: 58
+  catchRate: 190
+  learnableMoves: []
+  learnableByItems: []
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: 60b87ef9734cd284b94f29849afa5567, type: 2}
+    requiredLevel: 0
+    requireItem: {fileID: 11400000, guid: 013f9468420c303478fa2c04b639d343, type: 2}

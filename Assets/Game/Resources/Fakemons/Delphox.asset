@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Delphox
+  m_EditorClassIdentifier: 
+  name: Delphox
+  description: "Delphox is a Fire/Psychic type Pok\xE9mon introduced in Generation
+    6. It is known as the Fox Pok\xE9mon."
+  frontSprite: {fileID: 21300000, guid: d0d3ea0fa78d9f24b85e707d45b7d7fe, type: 3}
+  backSprite: {fileID: 21300000, guid: d72937db0f15fad4fbc54506edfe63dd, type: 3}
+  type1: 2
+  type2: 11
+  growthRate: 1
+  maxHp: 75
+  attack: 69
+  defense: 72
+  spAttack: 114
+  spDefense: 100
+  speed: 104
+  expYield: 267
+  catchRate: 45
+  learnableMoves: []
+  learnableByItems: []
+  evolutions: []

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Inkay
+  m_EditorClassIdentifier: 
+  name: Inkay
+  description: Opponents who stare at the flashing of the light-emitting spots on
+    its body become dazed and lose their will to fight.
+  frontSprite: {fileID: 21300000, guid: 634bcec7821a764458bc2c174c62ab96, type: 3}
+  backSprite: {fileID: 21300000, guid: 81e7a14eabb5f394fb592ef71efd33c6, type: 3}
+  type1: 16
+  type2: 11
+  growthRate: 1
+  maxHp: 53
+  attack: 54
+  defense: 53
+  spAttack: 37
+  spDefense: 46
+  speed: 45
+  expYield: 59
+  catchRate: 190
+  learnableMoves: []
+  learnableByItems: []
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: f4ee23e1f6b09ce4cba9849888100173, type: 2}
+    requiredLevel: 30
+    requireItem: {fileID: 0}

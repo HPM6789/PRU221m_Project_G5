@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Bergmite
+  m_EditorClassIdentifier: 
+  name: Bergmite
+  description: "It blocks opponents\u2019 attacks with the ice that shields its body.
+    It uses cold air to repair any cracks with new ice."
+  frontSprite: {fileID: 21300000, guid: 184f974aa1c78204c829fcc320160ac9, type: 3}
+  backSprite: {fileID: 21300000, guid: fd8854cfbcb9ee243982777e95a0a107, type: 3}
+  type1: 6
+  type2: 0
+  growthRate: 1
+  maxHp: 55
+  attack: 69
+  defense: 85
+  spAttack: 32
+  spDefense: 35
+  speed: 28
+  expYield: 61
+  catchRate: 190
+  learnableMoves: []
+  learnableByItems: []
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: 3b601fb206ebd8a439fd7ae68f4e724b, type: 2}
+    requiredLevel: 37
+    requireItem: {fileID: 0}

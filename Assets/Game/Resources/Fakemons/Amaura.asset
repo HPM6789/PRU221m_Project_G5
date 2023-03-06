@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Amaura
+  m_EditorClassIdentifier: 
+  name: Amaura
+  description: "This ancient Pok\xE9mon was restored from part of its body that had
+    been frozen in ice for over 100 million years."
+  frontSprite: {fileID: 21300000, guid: 09294a56180d9ac4c964f96aa41dda75, type: 3}
+  backSprite: {fileID: 21300000, guid: a48bada44b96805469e9c55981c9163b, type: 3}
+  type1: 13
+  type2: 6
+  growthRate: 0
+  maxHp: 77
+  attack: 59
+  defense: 50
+  spAttack: 67
+  spDefense: 63
+  speed: 46
+  expYield: 72
+  catchRate: 45
+  learnableMoves: []
+  learnableByItems: []
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: acf084e2602f4f94cb053b5b691063e5, type: 2}
+    requiredLevel: 39
+    requireItem: {fileID: 0}

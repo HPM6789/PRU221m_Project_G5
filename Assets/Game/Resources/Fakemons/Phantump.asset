@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Phantump
+  m_EditorClassIdentifier: 
+  name: Phantump
+  description: "These Pok\xE9mon are created when spirits possess rotten tree stumps.
+    They prefer to live in abandoned forests."
+  frontSprite: {fileID: 21300000, guid: 8d697d309f60dcc4faed37ddbddb28ce, type: 3}
+  backSprite: {fileID: 21300000, guid: 27ff2990f59b2cb489bdccfbded182ef, type: 3}
+  type1: 14
+  type2: 5
+  growthRate: 1
+  maxHp: 43
+  attack: 70
+  defense: 48
+  spAttack: 50
+  spDefense: 60
+  speed: 38
+  expYield: 62
+  catchRate: 120
+  learnableMoves: []
+  learnableByItems: []
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: 577a3daa9e0182445a1ced231a3fdb34, type: 2}
+    requiredLevel: 35
+    requireItem: {fileID: 0}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Gourgeist
+  m_EditorClassIdentifier: 
+  name: Gourgeist
+  description: Singing in eerie voices, they wander town streets on the night of
+    the new moon. Anyone who hears their song is cursed.
+  frontSprite: {fileID: 21300000, guid: 54d31b6bf8963c1498e7d6a9646eb171, type: 3}
+  backSprite: {fileID: 21300000, guid: 7a100b70fed5cc242b355abbe2f19b6d, type: 3}
+  type1: 14
+  type2: 5
+  growthRate: 1
+  maxHp: 65
+  attack: 90
+  defense: 122
+  spAttack: 58
+  spDefense: 75
+  speed: 84
+  expYield: 173
+  catchRate: 60
+  learnableMoves: []
+  learnableByItems: []
+  evolutions: []

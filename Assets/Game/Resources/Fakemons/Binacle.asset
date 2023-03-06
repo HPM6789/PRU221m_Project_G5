@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Binacle
+  m_EditorClassIdentifier: 
+  name: Binacle
+  description: Two Binacle live together on one rock. When they fight, one of them
+    will move to a different rock.
+  frontSprite: {fileID: 21300000, guid: 135d4c0a7dd9af546ae0be1f873da252, type: 3}
+  backSprite: {fileID: 21300000, guid: c1ce6f7c716b3dd48861a708c452ed98, type: 3}
+  type1: 13
+  type2: 3
+  growthRate: 1
+  maxHp: 42
+  attack: 52
+  defense: 67
+  spAttack: 39
+  spDefense: 56
+  speed: 50
+  expYield: 61
+  catchRate: 120
+  learnableMoves: []
+  learnableByItems: []
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: 39c26a5c5de134b42bcb38cd02fa5bab, type: 2}
+    requiredLevel: 39
+    requireItem: {fileID: 0}

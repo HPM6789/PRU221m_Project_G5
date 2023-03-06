@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f753325c0efa5e4d983033cc97cae04, type: 3}
+  m_Name: Pumpkaboo
+  m_EditorClassIdentifier: 
+  name: Pumpkaboo
+  description: The pumpkin body is inhabited by a spirit trapped in this world. As
+    the sun sets, it becomes restless and active.
+  frontSprite: {fileID: 21300000, guid: 0822167e21a1b8a4c88f22bd98554300, type: 3}
+  backSprite: {fileID: 21300000, guid: db9aff583e6e6a94fbcbceb93fb07db3, type: 3}
+  type1: 14
+  type2: 5
+  growthRate: 1
+  maxHp: 49
+  attack: 66
+  defense: 70
+  spAttack: 44
+  spDefense: 55
+  speed: 51
+  expYield: 67
+  catchRate: 120
+  learnableMoves: []
+  learnableByItems: []
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: d283ef7dca09427419b428dad7d87379, type: 2}
+    requiredLevel: 35
+    requireItem: {fileID: 0}

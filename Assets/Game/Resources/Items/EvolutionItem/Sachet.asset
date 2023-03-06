@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ce301588281f8849be18100f4c85a7f, type: 3}
+  m_Name: Sachet
+  m_EditorClassIdentifier: 
+  name: Sachet
+  description: "A sachet filled with fragrant perfumes that are just slightly too
+    overwhelming. Yet it\u2019s loved by a certain Pok\xE9mon."
+  icon: {fileID: 21300000, guid: ae72bcf1c31ca3b45a8d555cf1b992ec, type: 3}
+  price: 0
+  isSellable: 0
